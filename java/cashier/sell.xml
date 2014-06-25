@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <goods>
+    <id>1</id>
+    <ename>edrink1</ename>
+    <name>drink1</name>
+    <left>10</left>
+    <price>10.00</price>
+  </goods>
+  <goods>
+    <id>2</id>
+    <ename>edrink2</ename>
+    <name>drink2</name>
+    <left>102</left>
+    <price>20.00</price>
+  </goods>
+   <goods>
+    <id>3</id>
+    <ename>edrink3</ename>
+    <name>drink3</name>
+    <left>5</left>
+    <price>12.00</price>
+  </goods>
+</root>

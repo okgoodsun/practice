@@ -1,0 +1,7 @@
+To compile the program:
+
+$ javac -cp ".:jdom.jar" *.java
+
+Run the following command:
+
+$ java -cp ".:jdom.jar" Cashier 100.00 edrink3:2 edrink2:1 edrink1:1
